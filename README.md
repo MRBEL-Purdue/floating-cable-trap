@@ -48,7 +48,11 @@ The cable trap can be tuned by placing a (50$\omega$) terminated coaxial cable, 
 ## Contributors
 
 Angel G Enriquez
+
 Jana M Vincent
+
 Folk W Narongrit
+
 Thejas Vishnu Ramesh
-Joseph V Rispoli
+
+Joseph V Rispoli*
