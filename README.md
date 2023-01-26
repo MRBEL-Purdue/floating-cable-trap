@@ -41,7 +41,7 @@ The optional cable trap cover provides protection and additional support to the 
 
 ## Tuning the Cable Trap
 
-The cable trap can be tuned by placing a (50$\omega$) terminated coaxial cable, then measuring the current on both sides of the cable using an RF current probe connected to a network analyzer (S21). Adjust the **tuning** capacitor on the End PCB so that the minimum S21 is at the intended frequency.  
+The cable trap can be tuned by placing a (50 Ohms) terminated coaxial cable, then measuring the current on both sides of the cable using an RF current probe connected to a network analyzer (S21). Adjust the **tuning** capacitor on the End PCB so that the minimum S21 is at the intended frequency.  
 
 ![Tuning](Images/Trap_Tuning.png)
 
