@@ -12,6 +12,7 @@ Cable traps are used to suppress common-mode currents in the shields of coaxial 
 The cable trap contains two half-cylinders that act as a cylindrical capacitor. The capacitance (F/m) and inductance (H/m) of the cable trap can be computed using the equations:
 
 $$ L = \frac{\mu}{2\pi} \ln{\frac{b}{a}} $$
+
 $$ C = \frac{2\pi\varepsilon}{\ln{b/a}} $$
 
 where $a$ is the inner diameter and $b$ is the outer diameter. $\varepsilon$ is the absolute permittivity of the dielectric material - ABS filament typically has $\varepsilon = 2.86$. 
