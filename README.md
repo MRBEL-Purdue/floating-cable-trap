@@ -5,6 +5,8 @@ This repository contains source and output files for a 3D printed floating cable
 
 Cable traps are used to suppress common-mode currents in the shields of coaxial cables.
 
+Our automatic calculator tool (Jupyter Notebook/Lab) can be used to aid calculations.
+
 ## Components
 
 **1. Cable Trap**
